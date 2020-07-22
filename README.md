@@ -4,7 +4,7 @@
 * This project displays the System and Process information on Linux machine(similar to top and htop)
 * Executed on "Ubuntu 18.04.4 LTS"
 
-Starter code for System Monitor Project in the Object Oriented Programming Course of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
+Starter code for System Monitor Project in the Object Oriented Programming Course of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) can be found [here](https://github.com/udacity/CppND-System-Monitor-Project-Updated).
 
 ![System Monitor](images/monitor.png)
 
@@ -28,6 +28,6 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 * To install clang-format within your own Linux environment: `sudo apt-get install clang-format`
 
 ## Instructions
-1. Clone the project repository: [`git clone https://github.com/udacity/CppND-System-Monitor-Project-Updated.git`] -- Needs to be updated**
+1. Clone the project repository: [`https://github.com/madhumaheswar/linux-system-monitor`] 
 2. Build the project: `make build`
 3. Run the resulting executable: `./build/monitor`
